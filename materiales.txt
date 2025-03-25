@@ -1,0 +1,111 @@
+Fase: 1
+Campo Formativo: Crianza
+Materia: 
+Grado: inicial y preescolar.
+Material_Recurso: Cuaderno de actividades lúdicas para una crianza amorosa
+Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/Ea2_S0h31QNNuyP4mi542VsBqu2dOYidpSm_5X5zpietKw?e=vxfZnq
+Descripción: 
+
+Fase: 1
+Campo Formativo: Crianza
+Materia: 
+Grado: Preescolar
+Material_Recurso: Mis primeros aprendizajes: creciendo en casa
+Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EXhc82FWshhKjHOB5CZRnV4BqXoxlNOGrmi65k9mhm2S2Q?e=IWgYKy
+Descripción: 
+
+Fase: 2
+Campo Formativo: De lo humano y lo comunitario
+Materia: 
+Grado: Preescolar
+Material_Recurso: Guía de apoyo en habilidades socioemocionales
+Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EQYYBbo4l_pDu0hwL8LrK7IBcjCddb2GGc8dM1-I-osyNQ?e=bha2or
+Descripción: 
+
+Fase: 2
+Campo Formativo: De lo humano y lo comunitario
+Materia: 
+Grado: Preescolar
+Material_Recurso: Actividades de aprendizaje
+Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/ET8RYqePT1hApGsG7cvA6VcBKnL0wP-XBV-h-_LuEDmf8Q?e=eo6k8s
+Descripción: 
+
+Fase: 2
+Campo Formativo: Lenguaje y Comunicaciòn
+Materia: 
+Grado: Preescolar
+Material_Recurso: Cuento El cazo de Lorenzo
+Enlace para consulta: https://format.seg.guanajuato.gob.mx/pil/pluginfile.php/1405827/mod_resource/content/137/Biblioteca/videos/Videoteca. El cazo de Lorenzo.mp4
+Descripción: 
+
+Fase: 2
+Campo Formativo: Lenguaje y Comunicaciòn
+Materia: 
+Grado: Preescolar
+Material_Recurso: Cuento Gato Palomero
+Enlace para consulta: https://format.seg.guanajuato.gob.mx/pil/pluginfile.php/1405827/mod_resource/content/137/Biblioteca/videos/Videoteca. El gato palomero.mp4
+Descripción: 
+
+Fase: 3
+Campo Formativo: Pensamiento matematico
+Materia: 
+Grado: 
+Material_Recurso:  Laboratorio de matemáticas
+Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/ERH75HyS5TRLsimlF6HZdFUBO6TvITHG2BtvgFAK2ysX1g?e=Y08bks
+Descripción: 
+
+Fase: 4
+Campo Formativo: Lenguaje y Comunicaciòn
+Materia: 
+Grado: 
+Material_Recurso: Juegos interactivos. PIL 3°
+Enlace para consulta: https://format.seg.guanajuato.gob.mx/pil/pluginfile.php/70462/mod_resource/content/13/PIIL_3_bloque1/index.html
+Descripción: 
+
+Fase: 4
+Campo Formativo: Lenguaje y Comunicaciòn
+Materia: 
+Grado: 
+Material_Recurso: Juegos interactivos. PIL 4°
+Enlace para consulta: https://format.seg.guanajuato.gob.mx/pil/pluginfile.php/1271/mod_resource/content/19/PIIL4/index.html
+Descripción: 
+
+Fase: 5
+Campo Formativo: Etica,naturaleza y sociales
+Materia: 
+Grado: 
+Material_Recurso: Aprendamos en familia cómo manejar los residuos sólidos para cuidar el medio ambiente
+Enlace para consulta: https://smaot.guanajuato.gob.mx/sitio/upload/QuedateCasa/Cuaderno_actividades_7_13.pdf
+Descripción: 
+
+Fase: 5
+Campo Formativo: Lenguajes
+Materia: 
+Grado: 
+Material_Recurso: Plataforma de impulso a la lectura
+Enlace para consulta: https://format.seg.guanajuato.gob.mx/pil/pluginfile.php/569937/mod_resource/content/1/SEXTO/index.html
+Descripción: 
+
+Fase: 6
+Campo Formativo: Etica,naturaleza y sociales
+Materia: 
+Grado: 
+Material_Recurso: Cuadernillo de nuestro mundo físico
+Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/ETT9_iIGSlFBv6Wb-pomV38BqfhSbJDSygJED4XHJhVA0Q?e=adniBI
+Descripción: 
+
+Fase: 6
+Campo Formativo: Etica,naturaleza y sociales
+Materia: 
+Grado:
+Material_Recurso: Cienca basada en la indagación
+Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EUpGCoiYryNDkCBsvbC81JIBbUWIPHwFT4sX5H87qpadzw?e=JDRWiq
+Descripción:
+
+Fase: 6
+Campo Formativo: Etica,naturaleza y sociales
+Materia: 
+Grado:
+Material_Recurso: Cienca basada en la indagación
+Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EUpGCoiYryNDkCBsvbC81JIBbUWIPHwFT4sX5H87qpadzw?e=JDRWiq
+Descripción:
