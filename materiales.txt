@@ -117,3 +117,11 @@ Grado:
 Material_Recurso: HISTORIA DE MEXICO
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EUpGCoiYryNDkCBsvbC81JIBbUWIPHwFT4sX5H87qpadzw?e=JDRWiq
 Descripción:
+
+Fase: 6
+Campo Formativo: Etica,naturaleza y sociales
+Materia: 
+Grado:
+Material_Recurso: historia principal
+Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EUpGCoiYryNDkCBsvbC81JIBbUWIPHwFT4sX5H87qpadzw?e=JDRWiq
+Descripción:
