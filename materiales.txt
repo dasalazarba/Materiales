@@ -869,3 +869,68 @@ Grado: Secundaria-Fase6
 Material_Recurso: Secundaria - Un libro sin recetas para la maestra y el maestro
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EW8b7zPReWJDglp_0EA87vYB_FzNtKg4g8mMtszJ9xUwrQ
 Descripción: 
+
+
+Fase: 3
+Campo Formativo: Libros Aprendemos Juntos
+Materia: 
+Grado: Primaria 1° y 2°
+Material_Recurso:  Aprendemos juntos 1° y 2° 
+Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EVeLzoM8hQNLvizP_BN3dqUB8_HxhhEQuGWgYgi3iCLQog?e=gRVdNI
+Descripción: 
+
+Fase: 4
+Campo Formativo: Libros Aprendemos Juntos
+Materia: 
+Grado: Primaria 3°
+Material_Recurso: Aprendemos juntos 3°
+Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EQ5TynVh-JtLpIEraxnge1oB61tioyEVkNNwoJRNGKJdxA?e=N2wUvT
+Descripción: 
+
+Fase: 4
+Campo Formativo: Libros Aprendemos Juntos
+Materia: 
+Grado: Primaria 4°
+Material_Recurso:  Aprendemos juntos 4°
+Enlace para consulta: https://seggtogob-my.sharepoint.com/:f:/g/personal/da_salazar_seg_guanajuato_gob_mx/EnXea-PSs59PkWgvqlX2OKcBiOsOae3gU0sOQ3m4_kii_w?e=A5yTPX
+Descripción: 
+
+Fase: 5
+Campo Formativo: Libros Aprendemos Juntos
+Materia: 
+Grado: Primaria 5°
+Material_Recurso:  Aprendemos juntos 5° 
+Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EcTig-I5uphIiGL-34vL_QABYVTux5T9FxAE4l-Q_DzjLw?e=pyQtrQ
+Descripción: 
+
+Fase: 5
+Campo Formativo: Libros Aprendemos Juntos
+Materia: 
+Grado: Primaria 6°
+Material_Recurso:  Aprendemos juntos 6° 
+Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/ETZpyEUDZ8BKkhuwtMoMofUBx78nHh5QHIXZMyX1uDAtcg?e=29VvrV
+Descripción: 
+
+Fase: 6
+Campo Formativo: Libros Aprendemos Juntos
+Materia: 
+Grado: Secundaria 1°
+Material_Recurso:  Aprendemos juntos 1°
+Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EYPRbIIU-V5Bs15BK-rQx_gBZP4Ao7mNEOz6rnBQdxuuzA?e=tteAjR
+Descripción: 
+
+Fase: 6
+Campo Formativo: Libros Aprendemos Juntos
+Materia: 
+Grado: Secundaria 2°
+Material_Recurso:  Aprendemos juntos 2°
+Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EdxKIDhcqopEufPEaCBwEXcBTbxAH-AbetzrMiB7EwQ-XA?e=9w0hKQ
+Descripción: 
+
+Fase: 6
+Campo Formativo: Libros Aprendemos Juntos
+Materia: 
+Grado: Secundaria 3°
+Material_Recurso: Aprendemos juntos 3°
+Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EYxqxRUU7GpLq5fWpPQeWd0BfjrdH1oYL6wwohbEstx7UQ?e=tDTx6E
+Descripción: 
