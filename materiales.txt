@@ -114,7 +114,7 @@ Fase: 3
 Campo Formativo: Libros de texto gratuitos
 Materia: 
 Grado: 1º
-Material_Recurso: 1º_PRIMARIA - INGLES - Nooki ka imï jomeme - PROJECTS AND READINGS
+Material_Recurso: 1º PRIMARIA - INGLES - Nooki ka imï jomeme - PROJECTS AND READINGS
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EVlJHefErJVOgmnInc9HiEQB29sUvReJ6jNR7PNgbcNMMA
 Descripción: 
 
@@ -122,7 +122,7 @@ Fase: 6
 Campo Formativo: Libros de texto gratuitos
 Materia: 
 Grado: 1º
-Material_Recurso: 1º_SECUNDARIA-INGLES-Uérakua anapu  uantakua - PROJECTS AND READINGS
+Material_Recurso: 1º SECUNDARIA - INGLES - Uérakua anapu  uantakua - PROJECTS AND READINGS
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/ERVqJ7W_q11HsUpgKs7SXrMBvluFEiWhhLSESZVp1cAG9A
 Descripción: 
 
@@ -130,7 +130,7 @@ Fase: 6
 Campo Formativo: Libros de texto gratuitos
 Materia: 
 Grado: 1º
-Material_Recurso: 1º_TS-INGLES- Uérakua anapu  uantakua - PROJECTS AND READINGS
+Material_Recurso: 1º Telesecundaria - INGLES - Uérakua anapu  uantakua - PROJECTS AND READINGS
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EWUZsjAt3ohOvaBrG9-cudQBZidaK8r09X7AXqW5ilA4qw
 Descripción: 
 
@@ -138,7 +138,7 @@ Fase: 3
 Campo Formativo: Libros de texto gratuitos
 Materia: 
 Grado: 2º
-Material_Recurso: 2º_PRIMARIA - INGLES - Nooki ka imï jomeme - PROJECTS AND READINGS
+Material_Recurso: 2º PRIMARIA - INGLES - Nooki ka imï jomeme - PROJECTS AND READINGS
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/Edxx0asW2rRLtGGPVAD_gAAB3XHmrZcYGyizXZ7BlNM21g
 Descripción: 
 
@@ -146,7 +146,7 @@ Fase: 6
 Campo Formativo: Libros de texto gratuitos
 Materia: 
 Grado: 2º
-Material_Recurso: 2º_SECUNDARIA-INGLES- Uérakua anapu  uantakua - PROJECTS AND READINGS
+Material_Recurso: 2º SECUNDARIA - INGLES - Uérakua anapu  uantakua - PROJECTS AND READINGS
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EQ5id5V-ua5Is0lVfbJ16UQBJ7tzXbeGgLEs9h7zj0lZnQ
 Descripción: 
 
@@ -154,7 +154,7 @@ Fase: 6
 Campo Formativo: Libros de texto gratuitos
 Materia: 
 Grado: 2º
-Material_Recurso: 2º_TS-INGLES- Uérakua anapu  uantakua - PROJECTS AND READINGS
+Material_Recurso: 2º Telesecundaria - INGLES - Uérakua anapu  uantakua - PROJECTS AND READINGS
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EfgdvvZG99REsMDe96m4DjEBr_aVf8OWZhoMyl0B1QlT8w
 Descripción: 
 
@@ -162,7 +162,7 @@ Fase: 4
 Campo Formativo: Libros de texto gratuitos
 Materia: 
 Grado: 3º
-Material_Recurso: 3º_PRIMARIA - INGLES- Dilla’ yell yoblhe - PROJECTS AND READINGS
+Material_Recurso: 3º PRIMARIA - INGLES- Dilla’ yell yoblhe - PROJECTS AND READINGS
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/ESJEmBhRkJdPuI5OAN8o1KQB_EVPlhj7WUCx6LsqtWL47A
 Descripción: 
 
@@ -170,7 +170,7 @@ Fase: 6
 Campo Formativo: Libros de texto gratuitos
 Materia: 
 Grado: 3º
-Material_Recurso: 3º_SECUNDARIA-INGLES- Uérakua anapu  uantakua - PROJECTS AND READINGS
+Material_Recurso: 3º SECUNDARIA - INGLES - Uérakua anapu  uantakua - PROJECTS AND READINGS
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EeYRc8EBDHhKsBGaKHSjBEoBemEjEJZwb0ckRsOyDCniNQ
 Descripción: 
 
@@ -178,7 +178,7 @@ Fase: 6
 Campo Formativo: Libros de texto gratuitos
 Materia: 
 Grado: 3º
-Material_Recurso: 3º_TS-INGLES- Uérakua anapu  uantakua - PROJECTS AND READINGS
+Material_Recurso: 3º Telesecundaria - INGLES - Uérakua anapu  uantakua - PROJECTS AND READINGS
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EdI-RNVLdzhMn2a0gQNO_vQBqswNsmI5_r5cm8a7Z_tT3A
 Descripción: 
 
@@ -186,7 +186,7 @@ Fase: 4
 Campo Formativo: Libros de texto gratuitos
 Materia: 
 Grado: 4º
-Material_Recurso: 4º_PRIMARIA- INGLES - Dilla’ yell yoblhe - PROJECTS AND READINGS
+Material_Recurso: 4º PRIMARIA - INGLES - Dilla’ yell yoblhe - PROJECTS AND READINGS
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EXlvcOYhm3RLoWtWHO7lbewBSIos47L93GrGDiszhukFqQ
 Descripción: 
 
@@ -194,7 +194,7 @@ Fase: 5
 Campo Formativo: Libros de texto gratuitos
 Materia: 
 Grado: 5º
-Material_Recurso: 5º_PRIMARIA - INGLES - Kawintaláb axi píl ti tál - PROJECTS AND READINGS
+Material_Recurso: 5º PRIMARIA - INGLES - Kawintaláb axi píl ti tál - PROJECTS AND READINGS
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EbQy57UT2ORLiSnzfhWgbRQBmT2J0gqKSuacKxLGe8B0lg
 Descripción: 
 
@@ -202,7 +202,7 @@ Fase: 5
 Campo Formativo: Libros de texto gratuitos
 Materia: 
 Grado: 6º
-Material_Recurso: 6º_PRIMARIA- INGLES - Kawintaláb axi píl ti tál - PROJECTS AND READINGS
+Material_Recurso: 6º PRIMARIA - INGLES - Kawintaláb axi píl ti tál - PROJECTS AND READINGS
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EaNjYzDShw1LkqLYwMxzICkB8eIPR-rdQZmN-EX6gI-uug
 Descripción: 
 
@@ -246,10 +246,10 @@ Material_Recurso: Lectura fácil - Fase 6 CAM
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EcgrMsUIUnJHkqY4PTvqFkUB29-e8DiNcydDqPUKC4bgMA
 Descripción: 
 
-Fase: 1
+Fase: 2
 Campo Formativo: Libros de texto gratuitos
 Materia: 
-Grado: 1°-Fase2-Crianzas para la libertad
+Grado: 1° - Crianzas para la libertad
 Material_Recurso: 1°-Fase2-Crianzas para la libertad_ Libro para las familias
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/Ea8zrNqx4tNIkF692D3PEdcBdfARmwLN-TwGFngGA80d7Q
 Descripción: 
@@ -257,7 +257,7 @@ Descripción:
 Fase: 2
 Campo Formativo: Libros de texto gratuitos
 Materia: 
-Grado: 1°-Preescolar-Jugar e imaginar con mi material  manipulable de preescolar
+Grado: 1° Preescolar - Jugar e imaginar con mi material  manipulable de preescolar
 Material_Recurso: 1°-Preescolar-Jugar e imaginar con mi material  manipulable de preescolar
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/ETOj-RUSoQZAojDa-RCaXLEBaAEGqj3bIsvUd6T91cxnmg
 Descripción: 
@@ -265,7 +265,7 @@ Descripción:
 Fase: 2
 Campo Formativo: Libros de texto gratuitos
 Materia: 
-Grado: 1º-Fase2-Modalidades de Trabajo para la acción transformadora y el codiseño
+Grado: 1º - Modalidades de Trabajo para la acción transformadora y el codiseño
 Material_Recurso: 1º-Fase2-Modalidades de Trabajo para la acción transformadora y el codiseño
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EYdemxZpUw1PpgT5sHr2HQsBb1nWKXdxnp5zrILs2ApU8Q
 Descripción: 
@@ -273,7 +273,7 @@ Descripción:
 Fase: 2
 Campo Formativo: Libros de texto gratuitos
 Materia: 
-Grado: 1º-Fase2-Posibilidades de trabajo para la acción transformadora y el codiseño
+Grado: 1º - Posibilidades de trabajo para la acción transformadora y el codiseño
 Material_Recurso: 1º-Fase2-Posibilidades de trabajo para la acción transformadora y el codiseño
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EVyrR4Yget1LgkqUl84EyKwBzD8cfc_rbWDB_noPEsPfeA
 Descripción: 
@@ -281,88 +281,88 @@ Descripción:
 Fase: 2
 Campo Formativo: Libros de texto gratuitos
 Materia: 
-Grado: 1º-Preescolar-Explorar e imaginar con mi libro de preescolar
-Material_Recurso: 1º-Preescolar-Explorar e imaginar con mi libro de preescolar
+Grado: 1º Preescolar - Explorar e imaginar con mi libro de preescolar
+Material_Recurso: 1º Preescolar - Explorar e imaginar con mi libro de preescolar
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/ER23fHn6pAVLvX8hFsu-4TgBPEgU31R50xuO1bwbUGo_4A
 Descripción: 
 
 Fase: 2
 Campo Formativo: Libros de texto gratuitos
 Materia: 
-Grado: 1º-Preescolar-Laminas de diálogo con manifestaciones culturales y artísticas
-Material_Recurso: 1º-Preescolar-Laminas de diálogo con manifestaciones culturales y artísticas
+Grado: 1º Preescolar - Laminas de diálogo con manifestaciones culturales y artísticas
+Material_Recurso: 1º Preescolar - Laminas de diálogo con manifestaciones culturales y artísticas
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/ETIGyG57p5VCqo2IQmKADgYBtvMuVhitgcAFshN80TokIg
 Descripción: 
 
 Fase: 2
 Campo Formativo: Libros de texto gratuitos
 Materia: 
-Grado: 1º-Preescolar-Múltiples Lenguajes
-Material_Recurso: 1º-Preescolar-Múltiples Lenguajes
+Grado: 1º Preescolar - Múltiples Lenguajes
+Material_Recurso: 1º Preescolar - Múltiples Lenguajes
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/ESVQlUW-Kw9Frjw4kkzGgrgBYOx2tseUQdBbLRtTXJgUGA
 Descripción: 
 
 Fase: 2
 Campo Formativo: Libros de texto gratuitos
 Materia: 
-Grado: 2°-Preescolar-Jugar e imaginar con mi material  manipulable de preescolar
-Material_Recurso: 2°-Preescolar-Jugar e imaginar con mi material  manipulable de preescolar
+Grado: 2° Preescolar - Jugar e imaginar con mi material  manipulable de preescolar
+Material_Recurso: 2° Preescolar - Jugar e imaginar con mi material  manipulable de preescolar
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/ESRO8npUnDlOu3prqWbSxgEB81Fn5Pbqiyb_JJcl2Q3cHw
 Descripción: 
 
 Fase: 2
 Campo Formativo: Libros de texto gratuitos
 Materia: 
-Grado: 2º-Preescolar-Explorar e imaginar con mi libro de preescolar
-Material_Recurso: 2º-Preescolar-Explorar e imaginar con mi libro de preescolar
+Grado: 2º Preescolar - Explorar e imaginar con mi libro de preescolar
+Material_Recurso: 2º Preescolar - Explorar e imaginar con mi libro de preescolar
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EY6oM5po8E9DuDSYHXp9cH0BgE_B3LBbQiKTOJPN2TB_PA
 Descripción: 
 
 Fase: 2
 Campo Formativo: Libros de texto gratuitos
 Materia: 
-Grado: 2º-Preescolar-Láminas de diálogo con manifestaciones culturales y artísticas
-Material_Recurso: 2º-Preescolar-Láminas de diálogo con manifestaciones culturales y artísticas
+Grado: 2º Preescolar - Láminas de diálogo con manifestaciones culturales y artísticas
+Material_Recurso: 2º Preescolar - Láminas de diálogo con manifestaciones culturales y artísticas
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EVIrBWcMR5BAjafmcb3ehrUBKHD9YoUcLRTmAF9djI_54g
 Descripción: 
 
 Fase: 2
 Campo Formativo: Libros de texto gratuitos
 Materia: 
-Grado: 2º-Preescolar-Múltiples Lenguajes
-Material_Recurso: 2º-Preescolar-Múltiples Lenguajes
+Grado: 2º Preescolar - Múltiples Lenguajes
+Material_Recurso: 2º Preescolar - Múltiples Lenguajes
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EcEQnzDhiWZAhtGHEUiR_q0Bk3sZvOEoWv8_tpqHHt1Kjw
 Descripción: 
 
 Fase: 3
 Campo Formativo: Libros de texto gratuitos
 Materia: 
-Grado: 3°-Preescolar-Jugar e imaginar con mi material manipulable de preescolar
-Material_Recurso: 3°-Preescolar-Jugar e imaginar con mi material manipulable de preescolar
+Grado: 3° Preescolar - Jugar e imaginar con mi material manipulable de preescolar
+Material_Recurso: 3° Preescolar - Jugar e imaginar con mi material manipulable de preescolar
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EfxRYgPCWEtDsj1EJVSOKusBdpOUCWj4L_Q9i5gG7v9OHw
 Descripción: 
 
 Fase: 2
 Campo Formativo: Libros de texto gratuitos
 Materia: 
-Grado: 3º-Preescolar-Explorar e imaginar con mi libro de preescolar
-Material_Recurso: 3º-Preescolar-Explorar e imaginar con mi libro de preescolar
+Grado: 3º Preescolar - Explorar e imaginar con mi libro de preescolar
+Material_Recurso: 3º Preescolar - Explorar e imaginar con mi libro de preescolar
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/Eba4m-KQuUxAoDca-0sex54BUZCYGgglIBeVjObgHw7tSA
 Descripción: 
 
 Fase: 2
 Campo Formativo: Libros de texto gratuitos
 Materia: 
-Grado: 3º-Preescolar-Láminas de diálogo con manifestaciones culturales y artísticas
-Material_Recurso: 3º-Preescolar-Láminas de diálogo con manifestaciones culturales y artísticas
+Grado: 3º Preescolar - Láminas de diálogo con manifestaciones culturales y artísticas
+Material_Recurso: 3º Preescolar - Láminas de diálogo con manifestaciones culturales y artísticas
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/Ee5dR5aZDpVCk_q9kdNPGSgBxtIs1XpF8-zW4R3LOfVf4Q
 Descripción: 
 
 Fase: 2
 Campo Formativo: Libros de texto gratuitos
 Materia: 
-Grado: 3º-Preescolar-Múltiples Lenguajes
-Material_Recurso: 3º-Preescolar-Múltiples Lenguajes
+Grado: 3º Preescolar - Múltiples Lenguajes
+Material_Recurso: 3º Preescolar - Múltiples Lenguajes
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EbLVvjoz6IRGkSgcX5_QyyUBRqs_fn27pddU2IHQyJ9rlw
 Descripción: 
 
@@ -370,7 +370,7 @@ Fase: 3
 Campo Formativo: Libros de texto gratuitos
 Materia: 
 Grado: 1°
-Material_Recurso: 1°_Primaria_Proyectos de Aula
+Material_Recurso: 1° Primaria Proyectos de Aula
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/ERfLgSFFeqRCrvBk2fX424AB3fQfjyUNLIHhtJij9silVw
 Descripción: 
 
@@ -378,7 +378,7 @@ Fase: 3
 Campo Formativo: Libros de texto gratuitos
 Materia: 
 Grado: 1º
-Material_Recurso: 1º_Primaria_Múltiples Lenguajes
+Material_Recurso: 1º Primaria - Múltiples Lenguajes
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EUZm0ar8OFtCnTInAQ4OI6QBaxUVc-01nfhlQVKK2SqlDg
 Descripción: 
 
@@ -386,7 +386,7 @@ Fase: 3
 Campo Formativo: Libros de texto gratuitos
 Materia: 
 Grado: 1º
-Material_Recurso: 1º_Primaria_Múltiples Lenguajes_ Trazos y Números
+Material_Recurso: 1º Primaria - Múltiples Lenguajes  Trazos y Números
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/Ed22TxFjVPxGhDWijmuWZyEB7xT9_Lxaa-8oMbzddYqMCg
 Descripción: 
 
@@ -394,7 +394,7 @@ Fase: 3
 Campo Formativo: Libros de texto gratuitos
 Materia: 
 Grado: 1º
-Material_Recurso: 1º_Primaria_Múltiples Lenguajes_ Trazos y Palabras
+Material_Recurso: 1º Primaria - Múltiples Lenguajes Trazos y Palabras
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EY5OJIExXApHodbY0yUVdwcBFow8WKILsjfMSIKPa0LwRQ
 Descripción: 
 
@@ -402,7 +402,7 @@ Fase: 3
 Campo Formativo: Libros de texto gratuitos
 Materia: 
 Grado: 1º
-Material_Recurso: 1º_Primaria_Nuestros Saberes_ Libro para alumnos, maestros y familias
+Material_Recurso: 1º Primaria - Nuestros Saberes - Libro para alumnos, maestros y familias
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EZOKuCV8r_1LhlLucVUGs10BldanYX-ptYyGcOaqUGuSWA
 Descripción: 
 
@@ -410,7 +410,7 @@ Fase: 3
 Campo Formativo: Libros de texto gratuitos
 Materia: 
 Grado: 1º
-Material_Recurso: 1º_Primaria_Proyectos Comunitarios
+Material_Recurso: 1º Primaria - Proyectos Comunitarios
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/ESSjRNAybt1DnYyK03-HO_cBpAxt_ATIPNiJoJGpX35yJg
 Descripción: 
 
@@ -418,7 +418,7 @@ Fase: 3
 Campo Formativo: Libros de texto gratuitos
 Materia: 
 Grado: 1º
-Material_Recurso: 1º_Primaria_Proyectos Escolares
+Material_Recurso: 1º Primaria - Proyectos Escolares
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EVvhQnEOvJlMmOeWvMsZNiwBk6-i0jg8soZQ5Lg0BIxJvg
 Descripción: 
 
@@ -426,7 +426,7 @@ Fase: 3
 Campo Formativo: Libros de texto gratuitos
 Materia: 
 Grado: 2º
-Material_Recurso: 2º_Primaria_Múltiples Lenguajes
+Material_Recurso: 2º Primaria - Múltiples Lenguajes
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EVsTFp7ZMwxIsIiGfHhQQ3UBCRLq6okAC7KC8WQvwgQWHg
 Descripción: 
 
@@ -434,7 +434,7 @@ Fase: 3
 Campo Formativo: Libros de texto gratuitos
 Materia: 
 Grado: 2º
-Material_Recurso: 2º_Primaria_Múltiples Lenguajes-Trazos-y-Números
+Material_Recurso: 2º Primaria - Múltiples Lenguajes Trazos y Números
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EUWuFuQKbaNFvASfUyJi2VMBHpL7GUUo5QppYXsX7Sl00g
 Descripción: 
 
@@ -442,7 +442,7 @@ Fase: 3
 Campo Formativo: Libros de texto gratuitos
 Materia: 
 Grado: 2º
-Material_Recurso: 2º_Primaria_Múltiples Lenguajes-Trazos-y-Palabras
+Material_Recurso: 2º Primaria - Múltiples Lenguajes Trazos y Palabras
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EcA7LPrE3DdJkqhtSe1_E-wBaPMuN9AghQfU25uDvR7aSA
 Descripción: 
 
@@ -450,7 +450,7 @@ Fase: 3
 Campo Formativo: Libros de texto gratuitos
 Materia: 
 Grado: 2º
-Material_Recurso: 2º_Primaria_Nuestros Saberes_ Libro para alumnos, maestros y familias
+Material_Recurso: 2º Primaria - Nuestros Saberes Libro para alumnos, maestros y familias
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EfIc2phvb3BOkVC-ajrXnHEBwPxIXw7M2uLbidZOQvNJVg
 Descripción: 
 
@@ -458,7 +458,7 @@ Fase: 3
 Campo Formativo: Libros de texto gratuitos
 Materia: 
 Grado: 2º
-Material_Recurso: 2º_Primaria_Proyectos Comunitarios
+Material_Recurso: 2º Primaria - Proyectos Comunitarios
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EQj1FTHCqdhMjhM7UiKNs4wB-mmNz45zIctAp0zmlNLsNw
 Descripción: 
 
@@ -466,7 +466,7 @@ Fase: 3
 Campo Formativo: Libros de texto gratuitos
 Materia: 
 Grado: 2º
-Material_Recurso: 2º_Primaria_Proyectos de Aula
+Material_Recurso: 2º Primaria - Proyectos de Aula
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/Ee0Ods7smVhCsNkDsbkGIIsBePB5sgGq6JX4MN_QpfQRKA
 Descripción: 
 
@@ -474,7 +474,7 @@ Fase: 3
 Campo Formativo: Libros de texto gratuitos
 Materia: 
 Grado: 2º
-Material_Recurso: 2º_Primaria_Proyectos Escolares
+Material_Recurso: 2º Primaria - Proyectos Escolares
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/Efoa17Q1HGFOhsQmTenpuO4BtDM8bHMGEbZq5qojXqPk6Q
 Descripción: 
 
@@ -482,7 +482,7 @@ Fase: 4
 Campo Formativo: Libros de texto gratuitos
 Materia: 
 Grado: 3°
-Material_Recurso: 3°_Primaria_Proyectos de Aula
+Material_Recurso: 3° Primaria - Proyectos de Aula
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EXjhzGzBWFBKtfH4yW0ZNVcBQRKUbDfwr6jowouNLd-6uQ
 Descripción: 
 
@@ -490,7 +490,7 @@ Fase: 4
 Campo Formativo: Libros de texto gratuitos
 Materia: 
 Grado: 3º
-Material_Recurso: 3º_Primaria_Múltiples Lenguajes
+Material_Recurso: 3º Primaria - Múltiples Lenguajes
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EXJdbYaD5ddDryuVT1m-1vcBsXlXLTiG1XxzVJi7pMUEVA
 Descripción: 
 
@@ -498,7 +498,7 @@ Fase: 4
 Campo Formativo: Libros de texto gratuitos
 Materia: 
 Grado: 3º
-Material_Recurso: 3º_Primaria_Nuestros Saberes_ Libro para alumnos, maestros y familias
+Material_Recurso: 3º Primaria - Nuestros Saberes Libro para alumnos, maestros y familias
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EeDi9DfiTtpEu2MSYNFklSwBlvP0WpzVbe2aWtB3FU_q2Q
 Descripción: 
 
@@ -506,7 +506,7 @@ Fase: 4
 Campo Formativo: Libros de texto gratuitos
 Materia: 
 Grado: 3º
-Material_Recurso: 3º_Primaria_Proyectos Comunitarios
+Material_Recurso: 3º Primaria - Proyectos Comunitarios
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EezyywiHTzFEovk4wQATTK8B2qabhNzEXyuCxSuOESqiDg
 Descripción: 
 
@@ -514,7 +514,7 @@ Fase: 4
 Campo Formativo: Libros de texto gratuitos
 Materia: 
 Grado: 3º
-Material_Recurso: 3º_Primaria_Proyectos Escolares
+Material_Recurso: 3º Primaria - Proyectos Escolares
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/ERz5yFZTHa9OsPaLfQk4DqQBmj2vJbLzLb4dQvWVFJYEEA
 Descripción: 
 
@@ -522,7 +522,7 @@ Fase: 4
 Campo Formativo: Libros de texto gratuitos
 Materia: 
 Grado: 4º
-Material_Recurso: 4º_Primaria_Múltiples Lenguajes
+Material_Recurso: 4º Primaria - Múltiples Lenguajes
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EfMsjRSezO1GtEWwLHy5bmkBVbak6IC-JgbSCqadHEwfcw
 Descripción: 
 
@@ -674,7 +674,7 @@ Fase: 6
 Campo Formativo: Libros de texto gratuitos
 Materia: 
 Grado: 1º
-Material_Recurso: 1º_Telesecundaria-De lo Humano a lo Comunitario_Colección Ximhai
+Material_Recurso: 1º Telesecundaria - De lo Humano a lo Comunitario Colección Ximhai
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EVDnd_wsBC1Aqog1Sq6e6lABKA_cZEt0oWHtvw0KtIcl4w
 Descripción: 
 
@@ -682,7 +682,7 @@ Fase: 6
 Campo Formativo: Libros de texto gratuitos
 Materia: 
 Grado: 1º
-Material_Recurso: 1º_Telesecundaria-Ética, Naturaleza y Sociedades_Colección Ximhai
+Material_Recurso: 1º Telesecundaria - Ética, Naturaleza y Sociedades Colección Ximhai
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EcVvcdJzKRxGlWwrbp8aAQwBzWzua6MWl8ijIgmmB3HH6A
 Descripción: 
 
@@ -690,7 +690,7 @@ Fase: 6
 Campo Formativo: Libros de texto gratuitos
 Materia: 
 Grado: 1º
-Material_Recurso: 1º_Telesecundaria-Lenguaje_Colección Ximhai
+Material_Recurso: 1º Telesecundaria - Lenguaje Colección Ximhai
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EajJYDAjcSxKpffm9pKpq3UBBqNCFZcFzpHYMt8WGq6sbw
 Descripción: 
 
@@ -698,7 +698,7 @@ Fase: 6
 Campo Formativo: Libros de texto gratuitos
 Materia: 
 Grado: 1º
-Material_Recurso: 1º_Telesecundaria-Múltiples Lenguajes_Colección Ximhai
+Material_Recurso: 1º Telesecundaria - Múltiples Lenguajes Colección Ximhai
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/Ecbb4otW4aRNr77aIAybTVkBM7jH_4pHDmVh6SoR18MeZQ
 Descripción: 
 
@@ -706,7 +706,7 @@ Fase: 6
 Campo Formativo: Libros de texto gratuitos
 Materia: 
 Grado: 1º
-Material_Recurso: 1º_Telesecundaria-Nuestro Libro de Proyectos-Tomo1-Colección Ximhai
+Material_Recurso: 1º Telesecundaria - Nuestro Libro de Proyectos Tomo1 Colección Ximhai
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/Eay44T_4Ha1Kpsp-gQS6HFcB_l6yI5mmiOslRxIwh-WPPg
 Descripción: 
 
@@ -714,7 +714,7 @@ Fase: 6
 Campo Formativo: Libros de texto gratuitos
 Materia: 
 Grado: 1º
-Material_Recurso: 1º_Telesecundaria-Nuestro Libro de Proyectos-Tomo2-Colección Ximhai
+Material_Recurso: 1º Telesecundaria - Nuestro Libro de Proyectos Tomo2 Colección Ximhai
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/Eek1M-3_NjlJoB2gD3LzSoABvyftFIFySLIsd4uklpM2zQ
 Descripción: 
 
@@ -722,7 +722,7 @@ Fase: 6
 Campo Formativo: Libros de texto gratuitos
 Materia: 
 Grado: 1º
-Material_Recurso: 1º_Telesecundaria-Nuestro Libro de Proyectos-Tomo3-Colección Ximhai
+Material_Recurso: 1º Telesecundaria - Nuestro Libro de Proyectos Tomo3 Colección Ximhai
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/ERpFKpRJDrlKsOEJdLStAhoB_vOacDUk-7lsLExJjr4JZA
 Descripción: 
 
@@ -730,7 +730,7 @@ Fase: 6
 Campo Formativo: Libros de texto gratuitos
 Materia: 
 Grado: 1º
-Material_Recurso: 1º_Telesecundaria-Saberes y Pensamiento Científico_Colección Ximhai
+Material_Recurso: 1º Telesecundaria - Saberes y Pensamiento Científico Colección Ximhai
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/Ee7BPOFa1iFMgIhzviVwwQsBvjfF5FOfPExWIMYAQ4sPVg
 Descripción: 
 
@@ -738,7 +738,7 @@ Fase: 6
 Campo Formativo: Libros de texto gratuitos
 Materia: 
 Grado: 2°
-Material_Recurso: 2°_Telesecundaria_Ética Naturaleza y Sociedad-Colección sk' asolil
+Material_Recurso: 2° Telesecundaria - Ética Naturaleza y Sociedad Colección sk' asolil
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/ETz80wGDA5FGmHn8uy_HA74Bh40azT3yQ0bXwieBVw_aDw
 Descripción: 
 
@@ -746,7 +746,7 @@ Fase: 6
 Campo Formativo: Libros de texto gratuitos
 Materia: 
 Grado: 2º
-Material_Recurso: 2º_Telesecundariandaria-De lo Humano a lo Comunitario-Colección sk´asolil
+Material_Recurso: 2º Telesecundariandaria - De lo Humano a lo Comunitario Colección sk´asolil
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/Ec-QeN-MJwVDjfx9fQ0p6z8Buh5BtaKt6JIhpZ_q07MfGg
 Descripción: 
 
@@ -754,7 +754,7 @@ Fase: 6
 Campo Formativo: Libros de texto gratuitos
 Materia: 
 Grado: 2º
-Material_Recurso: 2º_Telesecundariandaria-Lenguaje-Colección sk´asolil
+Material_Recurso: 2º Telesecundariandaria - Lenguaje Colección sk´asolil
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EUIO-peJeNVFhwg0zUHO_LkBp5MvcyQYakGbQXWFVYh8Gg
 Descripción: 
 
@@ -762,7 +762,7 @@ Fase: 6
 Campo Formativo: Libros de texto gratuitos
 Materia: 
 Grado: 2º
-Material_Recurso: 2º_Telesecundaria-Múltiples Lenguajes-Colección sk´asolil
+Material_Recurso: 2º Telesecundaria - Múltiples Lenguajes Colección sk´asolil
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EVcjftKVaOFMk9x6OLxXfM8B0FvvOJliBkPJtj6-bcNiGA
 Descripción: 
 
@@ -770,7 +770,7 @@ Fase: 6
 Campo Formativo: Libros de texto gratuitos
 Materia: 
 Grado: 2º
-Material_Recurso: 2º_Telesecundaria-Nuestro Libro de Proyectos -Tomo 1-Colección sk´asolil
+Material_Recurso: 2º Telesecundaria - Nuestro Libro de Proyectos  Tomo 1 Colección sk´asolil
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EWL4ZeGLg-BKqT4B4uWDYDoBbPbGIVVpfBNKNFis5_zxFw
 Descripción: 
 
@@ -778,7 +778,7 @@ Fase: 6
 Campo Formativo: Libros de texto gratuitos
 Materia: 
 Grado: 2º
-Material_Recurso: 2º_Telesecundaria-Nuestro Libro de Proyectos -Tomo 2-Colección sk´asolil
+Material_Recurso: 2º Telesecundaria - Nuestro Libro de Proyectos  Tomo 2 Colección sk´asolil
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/Eff-n5_5Tw5PltCGCr1tfDQBHrQbgl1wNsT6GfvNqU8caA
 Descripción: 
 
@@ -786,7 +786,7 @@ Fase: 6
 Campo Formativo: Libros de texto gratuitos
 Materia: 
 Grado: 2º
-Material_Recurso: 2º_Telesecundaria-Nuestro Libro de Proyectos-Colección sk´asolil
+Material_Recurso: 2º Telesecundaria - Nuestro Libro de Proyectos Colección sk´asolil
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EemTMwIXjsFDr7wYNBJrBl0BFZ_VYfjq7j7pjpu7ibdaKA
 Descripción: 
 
@@ -794,7 +794,7 @@ Fase: 6
 Campo Formativo: Libros de texto gratuitos
 Materia: 
 Grado: 2º
-Material_Recurso: 2º_Telesecundaria-Saberes y Pensamiento Científico-Colección sk´asolil
+Material_Recurso: 2º Telesecundaria - Saberes y Pensamiento Científico Colección sk´asolil
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EWZjVNM4S-JNsWSm9kGsmIMBMBIglsLEdwGAOaI6rKnsCg
 Descripción: 
 
@@ -802,7 +802,7 @@ Fase: 6
 Campo Formativo: Libros de texto gratuitos
 Materia: 
 Grado: 3°
-Material_Recurso: 3°_Telesecundaria_De lo Humano a lo Comunitario-Colección Nanahuatzin
+Material_Recurso: 3° Telesecundaria - De lo Humano a lo Comunitario Colección Nanahuatzin
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EQU-VHuvyzNMs1HAsomaY8wB1Evje-dkIbIvUkMPZeUPyg
 Descripción: 
 
@@ -810,7 +810,7 @@ Fase: 6
 Campo Formativo: Libros de texto gratuitos
 Materia: 
 Grado: 3º
-Material_Recurso: 3º_Telesecundaria-Ética, Naturaleza y Sociedades-Colección Nanahuatzin
+Material_Recurso: 3º Telesecundaria - Ética, Naturaleza y Sociedades Colección Nanahuatzin
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EThvrs05y4ZKqGnt443ZTkcB2UkF21JjH4KnHlsZwuZP2A
 Descripción: 
 
@@ -818,7 +818,7 @@ Fase: 6
 Campo Formativo: Libros de texto gratuitos
 Materia: 
 Grado: 3º
-Material_Recurso: 3º_Telesecundaria-LENGUAJES-Colección Nanahuatzin
+Material_Recurso: 3º Telesecundaria - LENGUAJES Colección Nanahuatzin
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EUHx3N8FZvBGvKi2Sdj7lfIB4unRRYQ8TuAB3XtUWxWVxA
 Descripción: 
 
@@ -826,14 +826,14 @@ Fase: 6
 Campo Formativo: Libros de texto gratuitos
 Materia: 
 Grado: 3º
-Material_Recurso: 3º_Telesecundaria-Múltiples Lenguajes -Colección Nanahuatzin
+Material_Recurso: 3º Telesecundaria - Múltiples Lenguajes Colección Nanahuatzin
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EWqroc3uVGNPmWTVupeLkqcBZdn0LnVux1yp8PqqbzFR6w
 Descripción: 
 
 Fase: 2
 Campo Formativo: Libros de texto gratuitos
 Materia: 
-Grado: Preescolar-Fase2-Un libro sin recetas para la maestra y el maestro
+Grado: Preescolar - Un libro sin recetas para la maestra y el maestro
 Material_Recurso: Preescolar-Fase2-Un libro sin recetas para la maestra y el maestro
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EaFyRIEpkb5KmpIg_8cT4lIBUTRjsWfErCWiYqihUTXDWA
 Descripción: 
@@ -841,7 +841,7 @@ Descripción:
 Fase: 3
 Campo Formativo: Libros de texto gratuitos
 Materia: 
-Grado: Primaria-Fase3-1°-2°-Un libro sin recetas para la maestra y el maestro
+Grado: Primaria - Un libro sin recetas para la maestra y el maestro
 Material_Recurso: Primaria-Fase3-1°-2°-Un libro sin recetas para la maestra y el maestro
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/ESjlJNyoktZOkxkUmJfWuRsBeZtKgn2IhZ9IzHfdHE6KDw
 Descripción: 
@@ -849,8 +849,8 @@ Descripción:
 Fase: 4
 Campo Formativo: Libros de texto gratuitos
 Materia: 
-Grado: Primaria-Fase4
-Material_Recurso: Primaria-Fase4_3°-4º_Un libro sin recetas para la maestra y el maestro
+Grado: Primaria - Fase4
+Material_Recurso: Primaria - Un libro sin recetas para la maestra y el maestro
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EX1MGSHfbLNBsqXtqJlvyDkBn3nf0yWQJHaG5x-0ZFrWxw
 Descripción: 
 
@@ -858,7 +858,7 @@ Fase: 5
 Campo Formativo: Libros de texto gratuitos
 Materia: 
 Grado: Primaria-Fase5
-Material_Recurso: Primaria-Fase5_5°-6º_Un libro sin recetas para la maestra y el maestro
+Material_Recurso: Primaria - Un libro sin recetas para la maestra y el maestro
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/Ealz1blZNiBBkBh8dwyVOtYBRfHLi65y8KjZiQJRMDSbQw
 Descripción: 
 
@@ -866,6 +866,6 @@ Fase: 6
 Campo Formativo: Libros de texto gratuitos
 Materia: 
 Grado: Secundaria-Fase6
-Material_Recurso: Secundaria-Fase6_1°-3º-Un libro sin recetas para la maestra y el maestro
+Material_Recurso: Secundaria - Un libro sin recetas para la maestra y el maestro
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EW8b7zPReWJDglp_0EA87vYB_FzNtKg4g8mMtszJ9xUwrQ
 Descripción: 
