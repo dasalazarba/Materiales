@@ -934,3 +934,11 @@ Grado: Secundaria 3°
 Material_Recurso: Aprendemos juntos 3°
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EYxqxRUU7GpLq5fWpPQeWd0BfjrdH1oYL6wwohbEstx7UQ?e=tDTx6E
 Descripción: 
+
+Fase: 1
+Campo Formativo: Libros Aprendemos Juntos
+Materia: 
+Grado: Secundaria 3°
+Material_Recurso: Aprendemos juntos 3°
+Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EYxqxRUU7GpLq5fWpPQeWd0BfjrdH1oYL6wwohbEstx7UQ?e=tDTx6E
+Descripción: 
