@@ -102,14 +102,6 @@ Material_Recurso: Cienca basada en la indagación
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EUpGCoiYryNDkCBsvbC81JIBbUWIPHwFT4sX5H87qpadzw?e=JDRWiq
 Descripción:
 
-Fase: 6
-Campo Formativo: Etica,naturaleza y sociales
-Materia: 
-Grado:
-Material_Recurso: Cienca basada en la indagación
-Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EUpGCoiYryNDkCBsvbC81JIBbUWIPHwFT4sX5H87qpadzw?e=JDRWiq
-Descripción:
-
 Fase: 3
 Campo Formativo: Libros de texto gratuitos
 Materia: 
@@ -334,7 +326,7 @@ Material_Recurso: 2º Preescolar - Múltiples Lenguajes
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EcEQnzDhiWZAhtGHEUiR_q0Bk3sZvOEoWv8_tpqHHt1Kjw
 Descripción: 
 
-Fase: 3
+Fase: 2
 Campo Formativo: Libros de texto gratuitos
 Materia: 
 Grado: 3° Preescolar - Jugar e imaginar con mi material manipulable de preescolar
@@ -869,7 +861,6 @@ Grado: Secundaria-Fase6
 Material_Recurso: Secundaria - Un libro sin recetas para la maestra y el maestro
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EW8b7zPReWJDglp_0EA87vYB_FzNtKg4g8mMtszJ9xUwrQ
 Descripción: 
-
 
 Fase: 3
 Campo Formativo: Libros Aprendemos Juntos
