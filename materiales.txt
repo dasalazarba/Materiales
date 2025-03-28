@@ -9,14 +9,6 @@ Descripción:
 Fase: 1
 Campo Formativo: Crianza
 Materia: 
-Grado: inicial y preescolar.
-Material_Recurso: Crianza y recursos de inicial
-Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/Ea2_S0h31QNNuyP4mi542VsBqu2dOYidpSm_5X5zpietKw?e=vxfZnq
-Descripción: 
-
-Fase: 1
-Campo Formativo: Crianza
-Materia: 
 Grado: Preescolar
 Material_Recurso: Mis primeros aprendizajes: creciendo en casa
 Enlace para consulta: https://seggtogob-my.sharepoint.com/:b:/g/personal/da_salazar_seg_guanajuato_gob_mx/EXhc82FWshhKjHOB5CZRnV4BqXoxlNOGrmi65k9mhm2S2Q?e=IWgYKy
